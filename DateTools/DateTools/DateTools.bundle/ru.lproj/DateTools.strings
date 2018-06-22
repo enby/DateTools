@@ -123,3 +123,12 @@
 
 /* No comment provided by engineer. */
 "This year" = "В этом году";
+
+/* Short format for */
+"%dy" = "%d год"; // year
+"%dM" = "%d мес"; // month
+"%dw" = "%d нед"; // week
+"%dd" = "%d дн"; // day
+"%dh" = "%d час"; // hour
+"%dm" = "%d мин"; // minute
+"%ds" = "%d сек"; // second
